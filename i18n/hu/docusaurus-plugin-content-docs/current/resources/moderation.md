@@ -1,36 +1,36 @@
 ---
-title: Moderation
+title: Moderáció
 sidebar_position: 6
-description: Moderation resources
+description: Moderációs erőforrások
 ---
 
-# Moderation
+# Moderáció
 
-## **Discord Moderator Academy**
+## **Discord Moderátor Akadémia**
 
-> **Description:** Discord’s official resources for moderators, written by moderators.   <br/>
-**Link:** [Discord Moderator Academy](https://dis.gd/moderation)   <br/>
-**Credit:** Multiple Authors (Discord Moderator Ecosystem)
+> **Leírás:** A Discord hivatalos forrásai moderátorok számára, moderátorok által írva.   <br/>
+**Link:** [Discord Moderátor Akadémia](https://dis.gd/moderation)   <br/>
+**Készítő:** Több szerző (Discord moderátori ökoszisztéma)
 
-## **Discord Moderator Ecosystem**
+## **Discord moderátori ökoszisztéma**
 
-> **Description:** Official ecosystem for moderators to discuss moderation.   <br/>
-**Link:** [Discord Moderator Ecosystem](https://discord.com/blog/announcing-the-discord-moderator-academy-exam)
+> **Leírás:** Hivatalos ökoszisztéma a moderátorok számára a moderálás megvitatására.   <br/>
+**Link:** [Discord moderátori ökoszisztéma](https://discord.com/blog/announcing-the-discord-moderator-academy-exam)
 
-## **Naviking’s Moderation Templates & Tools Documentation**
+## **Naviking moderációs sablonjai és eszköz dokumentációja**
 
-> **Description:** A drive file full of moderation resources.   <br/>
-**Link:** [Naviking’s Templates and Tools Documentation](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
-**Credit:** @200987752794292224
+> **Leírás:** Egy meghajtófájl tele moderációs forrásokkal.   <br/>
+**Link:** [Naviking sablonjai és eszköz dokumentációja](https://drive.google.com/drive/folders/1vqdEEBqqCftZgMTkgqK8sKzxtdMANu4U)   <br/>
+**Készítő:** @200987752794292224
 
-## **Moderation Guidelines**
+## **Moderációs irányelvek**
 
-> **Description:** A template to help new staff with onboarding and understanding the server's moderation practices.   <br/>
-**Link:** [Moderation Guidelines](https://staff-guidelines.super.site/)   <br/>
-**Credit:** @366652352125599744
+> **Leírás:** Egy sablon, amely segít az új munkatársaknak a beilleszkedésben és a szerver moderálási gyakorlatának megértésében.   <br/>
+**Link:** [Moderációs irányelvek](https://staff-guidelines.super.site/)   <br/>
+**Készítő:** @366652352125599744
 
 ## **A Guide To Civil Conversation**
 
-> **Description:** Extensive, yet polished community ruleset, aimed at reducing the work of moderators.   <br/>
+> **Leírás:** Kiterjedt, mégis csiszolt közösségi szabályrendszer, amelynek célja a moderátorok munkájának csökkentése.   <br/>
 **Link:** [A Guide To Civil Conversation](https://conversation.guide/)   <br/>
-**Credit:** @102102717165506560
+**Készítő:** @102102717165506560
