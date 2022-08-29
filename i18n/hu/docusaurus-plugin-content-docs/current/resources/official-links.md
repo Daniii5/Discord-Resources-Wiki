@@ -1,15 +1,15 @@
 ---
-title: Official Discord Links
+title: Hivatalos Discord linkek
 sidebar_position: 4
-description: Official links from Discord.
+description: A Discord hivatalos linkjei.
 ---
 
-# Official Discord Links
+# Hivatalos Discord linkek
 
-## **Discord Website**
+## **Discord weboldal**
 
-> **Description:** Imagine a place… where links were not so long.   <br/>
-**Link:** [Discord Website](https://dis.gd/)
+> **Leírás:** Képzelj el egy helyet... ahol a linkek nem voltak olyan hosszúak.   <br/>
+**Link:** [Discord weboldal](https://dis.gd/)
 
 ## **How to Report**
 
