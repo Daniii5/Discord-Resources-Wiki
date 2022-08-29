@@ -1,27 +1,27 @@
 ---
-title: Official Forms
+title: Hivatalos űrlapok
 sidebar_position: 3
-description: Official forms from Discord.
+description: Hivatalos űrlapok a Discordtól.
 ---
 
-# Official Forms
+# Hivatalos űrlapok
 
-## **Report Form**
+## **Jelentési űrlap**
 
-> **Description:** Report an issue to Discord’s Trust and Safety team.   <br/>
-**Link:** [Discord Report Form](https://dis.gd/report)
+> **Leírás:** Jelents egy problémát a Discord Biztonság és megbízhatóság csapatának.   <br/>
+**Link:** [Discord jelentési űrlap](https://dis.gd/report)
 
-## **Support Form**
+## **Támogatói űrlap**
 
-> **Description:** Need help? Submit a request to the Discord team.   <br/>
-**Link:**  [Discord Support Form](https://dis.gd/contact)
+> **Leírás:** Kell segítség? Küldj kérést a Discord-csapatnak.   <br/>
+**Link:**  [Discord támogatói űrlap](https://dis.gd/contact)
 
-## **Feedback**
+## **Visszajelzés**
 
-> **Description:** Submit feedback to the Discord team.   <br/>
-**Link:**  [Discord Feedback Form](https://dis.gd/feedback)
+> **Leírás:** Küldj visszajelzést a Discord-csapatnak.   <br/>
+**Link:**  [Discord visszajelzési űrlap](https://dis.gd/feedback)
 
-## **Discord Trust & Safety**
+## **Discord bizalom és biztonság**
 
-> **Description:** Submit a request to Discord’s Trust & Safety team.   <br/>
+> **Leírás:** Küldj kérést a Discord bizalmi és biztonsági csapatának.   <br/>
 **Link:** [Discord TnS](https://dis.gd/request)
